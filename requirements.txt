@@ -1,0 +1,5 @@
+flask
+pandas
+fpdf2
+openpyxl
+flask_cors
